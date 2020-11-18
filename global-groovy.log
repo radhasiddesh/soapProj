@@ -1,0 +1,16 @@
+2020-11-18 09:59:47,574 INFO  [log] 12341890
+2020-11-18 09:59:47,605 INFO  [log] SKU00001
+2020-11-18 09:59:47,609 INFO  [log] MacBook Pen
+2020-11-18 09:59:47,612 INFO  [log] testcase name is EndtoEndProduct_Testing
+2020-11-18 09:59:47,623 INFO  [log] testsuite name is Product
+2020-11-18 11:27:55,104 INFO  [log] 12341893
+2020-11-18 11:27:55,133 INFO  [log] SKU00001
+2020-11-18 11:27:55,139 INFO  [log] MacBook Pen
+2020-11-18 11:27:55,142 INFO  [log] testcase name is EndtoEndProduct_Testing
+2020-11-18 11:27:55,155 INFO  [log] testsuite name is Product
+2020-11-18 11:28:02,691 INFO  [log] simple
+2020-11-18 11:28:05,605 INFO  [log] 
+2020-11-18 11:28:05,606 INFO  [log] 
+2020-11-18 11:28:05,609 INFO  [log] 
+2020-11-18 11:28:05,615 INFO  [log] testcase name is PropertyExpansionProductTesting
+2020-11-18 11:28:05,616 INFO  [log] testsuite name is Product
